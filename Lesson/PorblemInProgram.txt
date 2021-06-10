@@ -1,0 +1,8 @@
+Các vấn đề mà chương trình ứng dụng đang gặp phải:
+- Tìm kiếm dữ liệu: dữ liệu càng lớn, thời gian tìm kiếm càng lâu.
+- Tốc độ vi xử lý: dù tốc độ CPU có cao tới đâu cũng sẽ bị chậm lại với việc xử lý hàng tỉ bản ghi cùng một lúc.
+- Xử lý đồng thời nhiều yêu cầu cùng một lúc: việc xử lý hàng ngàn yêu cầu cùng lúc sẽ làm chậm hệ thống, bị trì trệ hoặc bị sập hệ thống.
+=> Cấu trúc dữ liệu và giải thuật. 
+  Đầu tiên ta làm quen với cấu trúc dữ liệu tuyến tính (Linear data structure): Cấu trúc tuyến tính là một cấu trúc trong đó các phần tử nằm trên một đường không có nhánh
+  , và các phần tử liên tiếp nhau.
+  Ví dụ: Mảng (Array), Stack, Queue, Linked

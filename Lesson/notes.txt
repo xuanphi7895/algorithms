@@ -1,0 +1,4 @@
+-- How to use github extention in VS Code   Link to use https://code.visualstudio.com/docs/editor/versioncontrol
+    1.Branches and Tags
+    You can create and checkout branches directly within VS code through the Git: 
+    Create Branch and Git: Checkout to commands in the Command Palette (Ctrl+Shift+P) use 'Git: Checkout to'
