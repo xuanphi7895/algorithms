@@ -1,0 +1,9 @@
+Thuật toán Sắp Xếp chọn trực tiếp: (Selection Sort)
+1.	Ý tưởng: Là xuất phát từ đầu (hoặc cuối dãy), đổi chỗ các cặp phần từ kế cận để đưa phần tử nhỏ (lớn) hơn trong cặp phần tử đó về vị trí đầu (hoặc cuối dãy) hiện hành, sau đó sẽ không xét nó ở vị trí tiếp theo, do vậy ở lần xử lí thứ I sẽ có vị trí đầu dãy I. Lặp lại xử lý trên cho đến khi không còn cặp phần tử nào để xét thì dừng giải thuật.
+2.	Giải thuật:
+B1: i =0;
+B2: Tìm phần tử a[min] nhỏ nhất trong dãy hiện hành a[i] đến a[n].
+B3: Dùng hàm swap để đổi chỗ a[i] và a[min].
+B4: Nếu i< n-1 thì i = i + 1;
+			 Lặp lại bước 2;
+       Ngược lại, dừng Chương trình.
