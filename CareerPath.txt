@@ -1,0 +1,142 @@
+# Steps for Full Stack .NET Developer | Career Path
+
+1. Software Development Lifecycle (SDLC):
+
+    Hint: Complete through Software Engineering theories. Select Agile as the targeted model from the 6 basics.
+
+2. Software Development Methodology:
+    * Agile (SCRUM)
+    * Sprint Event Board
+        * Jira
+        * Trello
+        * GitHub Projects
+    * DevOps (tools, usage of tools)
+
+3. Database Concepts:
+    * DDL
+    * Relational and Non-Relational
+
+4. Database Design Approach:
+    * Code first (Modern Style)
+    * Database first (Old Style)
+
+5. Database Infrastructure:
+    * ORM
+    * Entity Framework
+    * Working with Model Classes
+
+6. Object Oriented Knowledge:
+    * OOP Basics
+    * SOLID Design Principles
+    * Design patterns
+
+7. Application Architecture:
+    * Monolithic and microservices
+    * DDD
+    * N-Tier
+    * One
+
+8. .NET Knowledge
+    * .NET Basic
+    * Language Fundamental
+        * C#
+        * VB.NET
+        * F#
+    * Code Smell Basics
+
+9. .NET Projects
+    * .NET Standard
+    * .NET Core
+    * ASP .NET Core (Web Application)
+    * Web API
+
+10. User-Interface Patterns:
+    * MVC
+    * MVP
+    * MVVM
+    * Aria-Page
+    * Blazor (ASP .NET Core only)
+
+11. Scripting language:
+    * TypeScript
+    * Shell Scripting for Backend:
+        * Windows PowerShell
+        * Bash
+
+12. Single-Page Application (SPA):
+    * angular
+    * react
+
+13. Multi-Page Application:
+    * jQuery
+    * Bootstrap
+    * Razor View
+
+14. Software Testing:
+    * Functional Testing
+        * Unit Testing
+        * Integration testing
+        * User Acceptance Testing (UAT)
+        * MOQ
+    * Non-Functional Testing
+    * Maintenance
+        * End to End System Testing
+15. IDE:
+    * Visual Studio
+    * Native Tools for VS
+        * Developer CLI
+        * ildasm
+        * ilasm
+    * Package Manager CLI
+    * Xamarin for mobile development
+        * Cross Platform
+        * Android
+        * iOS
+    * ReSharper (Extension)
+    * Rider
+
+16. .NET Hosting
+    * Windows Server (IIS)
+    * Linux (NGINX by Reverse Proxy)
+
+17. Version Control:
+    * Git
+    * Repository Host (GitHub)
+    * Team Foundation Server (TFS)
+
+18. Communication and Collaboration:
+    * Microsoft Teams (Recommended)
+    * Event/Meeting Scheduling with RSVP
+    * SharePoint
+    * OneDrive or it's Alternatives
+    * Basics of Office 365 or it's Alternatives
+    * IDE Live Share
+
+19. Cloud infrastructure:
+    * Azure
+    * Amazon AWS
+    * Docker and Docker Container
+    * Kubernetes
+
+20. Software Build Tools:
+    * MSBuild
+    * NodeJS
+
+21. Non .NET Language:
+    * Visual C++
+
+22. Integration Tool:
+    * Jenkins
+
+23. Artificial Intelligence and Machine Learning
+    * Microsoft Bot Framework
+    * Azure Cognitive Service
+        * Language Understanding Intelligence Service (LUIS)
+        * Voice to Text
+        * Text to Voice
+        * Knowledge Base QNA Maker
+    * ML.NET (Featured)
+    * Azure Machine Learning
+    * Face API
+    * Text Analytics
+    * Data Science VM
